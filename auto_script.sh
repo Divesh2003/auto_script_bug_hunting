@@ -39,10 +39,7 @@ display_help() {
     echo -e "  -nt, --nmap-threads\tSpecify the number of threads for Nmap (default: 100)"
     echo -e "  -dt, --dirb-threads\tSpecify the number of threads for Dirb (default: 10)"
     echo
-    echo -e "Social Media:"
-    echo -e "  Twitter:   https://twitter.com/shubhamtiwari_r"
-    echo -e "  LinkedIn:  https://www.linkedin.com/in/shubham-tiwari09"
-    echo -e "  GitHub:    https://github.com/shubham-rooter"
+
 }
 
 # Parse command line arguments
