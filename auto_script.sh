@@ -29,7 +29,6 @@ echo -e "╚═════╝░░╚═════╝░░╚════�
 
 # Function to display usage instructions
 display_help() {
-    echo -e "Bug Bounty Script By Divesh Mandhyan"
     echo -e "Usage: ./bug_bounty_script.sh [OPTIONS]"
     echo -e "Options:"
     echo -e "  -h, --help\t\tDisplay usage instructions"
